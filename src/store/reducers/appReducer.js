@@ -1,4 +1,5 @@
 import actionTypes from "../actions/actionTypes";
+// import { useDispatch } from "react-redux";
 
 const initState = {
   banner: [],
